@@ -12,7 +12,6 @@ I'm a Back-end Developer from Brazil ğŸ’š, 30 years old and 7 years of coding ğŸ
 
 ### View my stats on Github
 ![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelluciodeveloper&show_icons=true)
-
 <img align="right" width="400" height="350" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 
