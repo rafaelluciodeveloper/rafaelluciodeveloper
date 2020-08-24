@@ -5,7 +5,7 @@
 I'm a Back-end Developer from Brazil 💚, 30 years old and 7 years of coding 🧐.
 
 - 🔭 I’m currently working at Licite Legal as a PHP developer and Sistemas Padrão as a Java, PHP and Delphi developer.
-- 📚 I am currently learning Spring at AlgaWorks, React with Rocketseat and DevOps at Code.education.
+- 📚 I am currently learning Spring at AlgaWorks, React with Rocketseat,Php and Laravel at UpInside and DevOps at Code.education.
 - ⚛  Techs: Java, Php , React.js, React Native, Angular, Vue.js, Node.js, TypeScript, JavaScript and the basics of DevOps.
 - 👽 Learning any tecnology that apears on my way.
 - 📫 How to reach me: rafaellucio.developer@gmail.com
