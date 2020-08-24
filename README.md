@@ -9,6 +9,12 @@ I'm a Back-end Developer from Brazil 💚, 30 years old and 7 years of coding �
 - ⚛  Techs: Java, Php , React.js, React Native, Angular, Vue.js, Node.js, TypeScript, JavaScript and the basics of DevOps.
 - 👽 Learning any tecnology that apears on my way.
 - 📫 How to reach me: rafaellucio.developer@gmail.com
+
+### View my stats on Github
+![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelluciodeveloper&show_icons=true)
+
 <img align="right" width="400" height="350" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
+
+
 
 
