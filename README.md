@@ -11,6 +11,9 @@ I'm a Back-end Developer from Brazil 💚, 30 years old and 7 years of coding �
 - 📫 How to reach me: rafaellucio.developer@gmail.com
 
 ### View my stats on Github
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rafaelluciodeveloper" frameborder="0"></iframe>
+
 ![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelluciodeveloper&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelluciodeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
