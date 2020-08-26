@@ -12,7 +12,7 @@ I'm a Back-end Developer from Brazil ðŸ’š, 30 years old and 7 years of coding ðŸ
 
 ### View my stats on Github
 ![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelluciodeveloper&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelluciodeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelluciodeveloper&layout=compact)](https://github.com/rafaelluciodeveloper/)
 
 
 
