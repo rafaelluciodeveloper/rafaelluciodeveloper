@@ -7,6 +7,7 @@ I'm a Back-end Developer from Brazil 💚, 33 years old and 10 years of coding :
 
 - 🔭 I'm currently work as a full stack developer, with the most diverse technologies.
 - 📚 I'm currently learning Spring at AlgaWorks, React with Rocketseat,Php and Laravel at UpInside and DevOps at Code.education.
+- :mortar_board: I have a degree in Systems Analysis and Development and a postgraduate degree in Software Engineering
 - ⚛  Techs: Java, Php ,Go Lang, React.js, Angular, Vue.js, Node.js, TypeScript, JavaScript and the basics of DevOps.
 - 👽 Learning any tecnology that apears on my way.
 - 📫 How to reach me: rafaellucio.developer@gmail.com
