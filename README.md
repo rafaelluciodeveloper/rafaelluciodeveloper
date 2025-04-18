@@ -8,7 +8,6 @@ Sou Desenvolvedor Full Stack, tenho 34 anos e mais de 10 anos de experiência em
 - 👽 Aprendo qualquer tecnologia que surgir no meu caminho.
 - 📫  Como me encontrar: rafaellucio.developer@gmail.com
 
-### View my stats on Github
 ![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelluciodeveloper&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelluciodeveloper&hide_progress=true&langs_count=12)](https://github.com/rafaelluciodeveloper/rafaelluciodeveloper)
 
